@@ -10,11 +10,15 @@ header h1{
   font-size:1rem;
 }
 header img{
-  width:50%;
+  width:30%;
 }
 section{
+  text-align:center;
   display: flex;
   align-content:space-between;
+}
+section iframe{
+  width:50%;
 }
 section img{
   width:50%;
