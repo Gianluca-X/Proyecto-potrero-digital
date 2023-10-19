@@ -2,16 +2,16 @@
   margin:0;
   font-family: 'Roboto',sans-serif;
 }
-.header .h1{
+header h1{
   background-color:blue;
   color:red;
   font-size:1em;
 }
-.section{
+section{
   display: flex;
   align-content:space-between;
   flex-wrap:nowrap;
 }
-.footer .img{
+footer img{
   width: 50%;
 }
