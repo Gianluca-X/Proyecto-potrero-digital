@@ -2,6 +2,9 @@
   margin:0;
   font-family: 'Roboto',sans-serif;
 }
+header{
+  text-align:center;
+}
 header h1{
   background-color:blue;
   color:red;
@@ -14,4 +17,5 @@ section{
 }
 footer img{
   width: 50%;
+  text-align:center;
 }
