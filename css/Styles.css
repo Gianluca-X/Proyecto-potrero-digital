@@ -15,7 +15,8 @@ header img{
 section{
   text-align:center;
   display: flex;
-  align-content:space-between;
+  margin:10px;
+  justify-content: space-between
 }
 section iframe{
   width:50%;
