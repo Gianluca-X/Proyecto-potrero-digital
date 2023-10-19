@@ -1,5 +1,6 @@
 *{
   margin:0;
+  font-family: 'Roboto',sans-serif;
 }
 .header .h1{
   background-color:blue;
@@ -11,7 +12,6 @@
   align-content:space-between;
   flex-wrap:nowrap;
 }
-.footer{
-  display:flex;
-  align-items:space-evenly;
+.footer .img{
+  width: 50%;
 }
