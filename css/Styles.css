@@ -14,11 +14,14 @@ header p{
 header img{
   width:15%;
 }
-section{
+main{
   text-align:center;
-  display: flex;
+}
+section{
   margin:10px;
-  justify-content: space-between
+}
+section li{
+  list-style:none;
 }
 section iframe{
   width:40%;
