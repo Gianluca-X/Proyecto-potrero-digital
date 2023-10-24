@@ -9,6 +9,7 @@ header{
   text-align:center;
 }
 header h1{
+  margin: 10px;
   color:red;
 }
 header p{
