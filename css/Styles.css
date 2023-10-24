@@ -2,6 +2,9 @@
   margin:0;
   font-family: 'Roboto',sans-serif;
 }
+body{
+  background-image: url('/images/sanlorenzo.jpg');
+}
 header{
   text-align:center;
 }
