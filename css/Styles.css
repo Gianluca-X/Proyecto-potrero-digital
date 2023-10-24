@@ -24,7 +24,16 @@ main{
 section{
   margin:10px;
 }
+section ul{
+  display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
 section li{
+  margin: 10px;
+  border-radius: 20px;
+  padding: 10px;
+  background-color: red;
   list-style:none;
 }
 section iframe{
