@@ -33,10 +33,12 @@ section ul{
     margin: 20px;
 }
 section ol{
+  margin: 20px;
   display: flex;
   justify-content: center;
 }
 section li{
+  border: solid 2px blue;
   margin: 10px;
   border-radius: 20px;
   padding: 10px;
