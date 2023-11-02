@@ -10,7 +10,7 @@ header{
 }
 header h1{
   margin: 10px;
-  color:red;
+  color:#9d0c0c;
 
 }
 header p{
@@ -24,6 +24,8 @@ main{
   text-align:center;
 }
 a{
+  font-weight:700;
+  color:#242135;
   text-decoration: none;
 }
 section{
@@ -40,11 +42,11 @@ section ol{
   justify-content: center;
 }
 section li{
-  border: solid 2px blue;
+  border: solid 2px #242135;
   margin: 10px;
   border-radius: 20px;
   padding: 10px;
-  background-color: red;
+  background-color: #9d0c0c;
   list-style:none;
 }
 section iframe{
