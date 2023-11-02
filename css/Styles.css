@@ -52,10 +52,14 @@ section li{
 }
 section iframe{
   width:40%;
+  border-radius: 20px;
+  border: 2px solid #141414;
 }
 section img{
   margin:10px;
   width:40%;
+  border-radius: 20px;
+  border: 2px solid #141414;
 }
 footer{
   margin: 15px;
