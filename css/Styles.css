@@ -25,7 +25,7 @@ main{
 }
 a{
   font-weight:700;
-  color:#242135;
+  color:#141414;
   text-decoration: none;
 }
 section{
@@ -42,7 +42,7 @@ section ol{
   justify-content: center;
 }
 section li{
-  border: solid 2px #242135;
+  border: solid 2px #141414;
   margin: 10px;
   border-radius: 20px;
   padding: 10px;
