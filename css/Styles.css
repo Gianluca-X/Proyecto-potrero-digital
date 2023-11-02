@@ -10,7 +10,7 @@ header{
 }
 header h1{
   margin: 10px;
-  color:#9d0c0c;
+  color:#f10000;
 
 }
 header p{
@@ -46,7 +46,7 @@ section li{
   margin: 10px;
   border-radius: 20px;
   padding: 10px;
-  background-color: #9d0c0c;
+  background-color: #f10000;
   list-style:none;
 }
 section iframe{
