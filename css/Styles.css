@@ -55,6 +55,9 @@ section iframe{
   border-radius: 20px;
   border: 2px solid #141414;
 }
+section form{
+  width: max-content;
+}
 section img{
   margin:10px;
   width:40%;
