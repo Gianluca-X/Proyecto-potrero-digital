@@ -1,73 +1,105 @@
-*{
-  margin:0;
-  font-family: 'Roboto',sans-serif;
+* {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
 }
-body{
+
+body {
   background-image: url('../images/sanlorenzo.jpg');
 }
-header{
-  text-align:center;
+
+header {
+  text-align: center;
 }
-header h1{
+
+header h1 {
   text-shadow: 1px 4px 1px #141414;
   margin: 10px;
-  color:#f10000;
+  color: #f10000;
 }
-header p{
+
+header p {
   color: white;
-  font-weight:400;
+  font-weight: 400;
 }
-header img{
-  width:15%;
+
+header img {
+  width: 15%;
 }
-main{
-  text-align:center;
+
+main {
+  text-align: center;
 }
-a{
+
+a {
   text-shadow: 0px 0px 10px #141414;
-  font-weight:700;
-  color:#141414;
+  font-weight: 700;
+  color: #141414;
   text-decoration: none;
 }
-section{
-  margin:10px;
+
+section {
+  margin: 10px;
 }
-section ul{
+
+section ul {
   display: flex;
-    justify-content: space-around;
-    margin: 20px;
+  justify-content: space-around;
+  margin: 20px;
 }
-section ol{
+
+section ol {
   margin: 20px;
   display: flex;
   justify-content: center;
 }
-section li{
+
+section li {
   border: solid 2px #141414;
   margin: 10px;
   border-radius: 20px;
   padding: 10px;
   background-color: #f10000;
-  list-style:none;
+  list-style: none;
 }
-section iframe{
-  width:40%;
+
+section iframe {
+  width: 40%;
   border-radius: 20px;
   border: 2px solid #141414;
 }
-section form{
-  width: max-content;
-}
-section img{
-  margin:10px;
-  width:40%;
+
+section img {
+  margin: 10px;
+  width: 40%;
   border-radius: 20px;
   border: 2px solid #141414;
 }
-footer{
+
+footer {
   margin: 15px;
-  text-align:center;
+  text-align: center;
 }
-footer .imagen{
- width: 10%;
+
+footer .imagen {
+  width: 10%;
+}
+
+.seccion5 {
+  padding: 2rem;
+}
+
+.seccion5__boton {
+  background-color: #f5b5cc;
+  border-color: #f5b5cc;
+}
+
+.seccion5__boton:hover {
+  background-color: #231f20;
+}
+
+/* Medias Querys */
+
+@media (min-width: 768px) {
+
+  .header__titulo {font-size: 60px;}
 }
