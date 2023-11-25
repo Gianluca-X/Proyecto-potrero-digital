@@ -20,6 +20,7 @@ header h1 {
 header p {
   color: white;
   font-weight: 400;
+  text-shadow: 5px 5px 10px black;
 }
 
 header img {
@@ -53,7 +54,7 @@ section ol {
   justify-content: center;
 }
 
-section li {
+section li , .seccion5__boton{
   border: solid 2px #141414;
   margin: 10px;
   border-radius: 20px;
@@ -88,12 +89,13 @@ footer .imagen {
   padding: 2rem;
 }
 
-.seccion5__boton {
+*/*/.seccion5__boton {
+  border: solid 2px #141414;
   background-color: #f10000;
   border-color: #141414;
-}
+}*/*/
 
-.seccion5__boton:hover {
+.seccion5__boton:hover, section li:hover {
   background-color: #231f20;
 }
 
@@ -102,4 +104,11 @@ footer .imagen {
 @media (min-width: 768px) {
 
   .header__titulo {font-size: 60px;}
+  section ul{
+    margin:0;
+  }
+  section iframe{
+    width:25%;
+  }
+  
 }
