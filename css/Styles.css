@@ -17,7 +17,7 @@ header h1, .text-center{
   color: #f10000;
 }
 
-header p {
+header p, div label {
   color: white;
   font-weight: 400;
   text-shadow: 5px 5px 10px black;
