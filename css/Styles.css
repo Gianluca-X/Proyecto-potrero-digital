@@ -108,12 +108,11 @@ footer .imagen {
   section ul{
     margin:0;
   }
-  section ul:first-child{
-    margin-left:0;
+  section ul li:first-child{
+    margin:0;
   }
   section iframe{
-    width:45%;
-    height:45%;
+    width:auto;
   }
   
 }
