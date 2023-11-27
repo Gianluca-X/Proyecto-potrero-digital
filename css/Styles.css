@@ -108,7 +108,9 @@ footer .imagen {
   section ul{
     margin:0px;
   }
-    
+    .buttons{
+      margin-left:0px;
+    }
   section iframe{
     width:25%;
   }
