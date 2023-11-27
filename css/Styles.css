@@ -109,7 +109,7 @@ footer .imagen {
   .header__titulo {font-size: 60px;}
   section ul{
     margin:0;
-    display:block;
+   justify-content:space-around;
   }
   section ul li{
     margin-left:0;
@@ -118,7 +118,7 @@ footer .imagen {
     width:auto;
   }
   section{
-    margin-left:1px;
+    margin-left:0;
   }
   section img{
     width:60%;
