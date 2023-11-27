@@ -54,7 +54,7 @@ section ol {
   justify-content: center;
 }
 
-section li , .seccion5__boton{
+.seccion5__boton, section li{
   border: solid 2px #141414;
   margin: 10px;
   border-radius: 20px;
@@ -108,9 +108,6 @@ footer .imagen {
   section ul{
     margin:2px;
   }
-    .buttons{
-      margin-right:10px;
-    }
   section iframe{
     width:25%;
   }
