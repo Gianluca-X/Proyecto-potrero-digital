@@ -96,7 +96,7 @@ footer .imagen {
   border-color: #141414;
 }*/*/
 
-.seccion5__boton:hover, section li:hover {
+.seccion5__boton:hover{
   background-color: #231f20;
 }
 
@@ -106,8 +106,9 @@ footer .imagen {
 
   .header__titulo {font-size: 60px;}
   section ul{
-    margin:0;
+    margin:0px;
   }
+    
   section iframe{
     width:25%;
   }
