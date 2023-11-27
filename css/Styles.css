@@ -111,9 +111,9 @@ footer .imagen {
     margin:0;
     display:block;
   }
-  /*section ul li:first-child{
+  section ul li{
     margin-left:0;
-  }*/
+  }
   section iframe{
     width:auto;
   }
