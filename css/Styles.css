@@ -27,9 +27,9 @@ header img {
   width: 15%;
 }
 
-/*main {
+main {
   text-align: center;
-}*/
+}
 
 a {
   text-shadow: 0px 0px 10px #141414;
@@ -38,9 +38,9 @@ a {
   text-decoration: none;
 }
 
-section {
+/*section {
   margin: 10px;
-}
+}*/
 
 section ul {
   display: flex;
