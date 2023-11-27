@@ -103,7 +103,9 @@ footer .imagen {
 /* Medias Querys */
 
 @media (max-width: 768px) {
-
+   header img{
+     width:20%;
+   }
   .header__titulo {font-size: 60px;}
   section ul{
     margin:0;
@@ -114,6 +116,9 @@ footer .imagen {
   }*/
   section iframe{
     width:auto;
+  }
+  section{
+    margin-left:1px;
   }
   section img{
     width:60%;
