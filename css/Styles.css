@@ -107,7 +107,7 @@ footer .imagen {
   .header__titulo {font-size: 60px;}
   section ul{
     margin:0;
-    display:contents;
+    display:block;
   }
   /*section ul li:first-child{
     margin-left:0;
@@ -117,5 +117,8 @@ footer .imagen {
   }
   section img{
     width:60%;
+  }
+  footer .imagen{
+    width:20%;
   }
 }
