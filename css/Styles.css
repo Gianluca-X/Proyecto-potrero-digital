@@ -110,15 +110,15 @@ footer .imagen {
     justify-content:space-between;
   }
   section ul li:first-child{
-    margin:0;
+    margin-left:0;
   }
   section iframe{
     width:auto;
   }
   section img{
-    width:40%;
+    width:60%;
   }
-  section:first-child{
+  section{
     margin:0;
   }
 }
