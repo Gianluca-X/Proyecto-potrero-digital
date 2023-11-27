@@ -109,10 +109,10 @@ footer .imagen {
     margin:0;
   }
   section ul li:first-child{
-    margin-left:1px;
+    margin-left:0;
   }
   section iframe{
-    width:35%;
+    width:45%;
     height:auto;
   }
   
