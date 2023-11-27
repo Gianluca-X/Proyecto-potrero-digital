@@ -106,7 +106,8 @@ footer .imagen {
 
   .header__titulo {font-size: 60px;}
   section ul{
-    margin:2px;
+    margin:0;
+    justify-contents:space-between;
   }
   section iframe{
     width:25%;
