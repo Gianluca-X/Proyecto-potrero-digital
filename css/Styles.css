@@ -115,8 +115,10 @@ footer .imagen {
   section iframe{
     width:auto;
   }
-  footer .imagen{
+  section img{
     width:auto;
   }
-  
+  section:first-child{
+    margin-left:0;
+  }
 }
