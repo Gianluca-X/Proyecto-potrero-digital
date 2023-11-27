@@ -109,6 +109,9 @@ footer .imagen {
     margin:0;
     justify-contents:space-between;
   }
+  section ul li{
+    margin:0;
+  }
   section iframe{
     width:25%;
   }
