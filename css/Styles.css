@@ -27,9 +27,9 @@ header img {
   width: 15%;
 }
 
-main {
+/*main {
   text-align: center;
-}
+}*/
 
 a {
   text-shadow: 0px 0px 10px #141414;
@@ -90,11 +90,11 @@ footer .imagen {
   color:white;
 }
 
-*/*/.seccion5__boton {
+/*.seccion5__boton {
   border: solid 2px #141414;
   background-color: #f10000;
   border-color: #141414;
-}*/*/
+}*/
 
 .seccion5__boton:hover{
   background-color: #231f20;
