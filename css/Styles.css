@@ -116,9 +116,9 @@ footer .imagen {
     width:auto;
   }
   section img{
-    width:auto;
+    width:40%;
   }
   section:first-child{
-    margin-left:0;
+    margin:0;
   }
 }
