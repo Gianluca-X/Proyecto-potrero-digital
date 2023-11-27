@@ -38,9 +38,9 @@ a {
   text-decoration: none;
 }
 
-/*section {
+section {
   margin: 10px;
-}*/
+}
 
 section ul {
   display: flex;
